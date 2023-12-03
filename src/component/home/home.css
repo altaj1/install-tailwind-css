@@ -1,0 +1,53 @@
+.highligh{
+   
+         color: lightgreen ;
+}
+.font-weight{
+   font-style: italic;
+   font-weight: 700 ;
+}
+
+
+.thisMargin {
+   
+    width: 50%;
+    margin: 100px;
+    padding-left: 20px;
+    height: 100%;
+}
+.disply{
+   display: flex;
+}
+.disply img {
+    
+    width: 50%;
+    margin: 100px;
+   
+}
+.thisMargin p {
+    color: rgb(178, 157, 157);
+}
+.name{
+    margin-right: 100px;
+}
+.home{
+    margin-left: 200px;
+}
+.about{
+    margin-left: 200px;
+
+}
+.portfolio{
+    margin-left: 200px;
+}
+.disply p {
+    color: azure;
+ font-style: italic;
+ font-weight: 700 ;
+}
+.disply Button{
+    color: azure;
+ font-style: italic;
+ font-weight: 700 ;
+}
+

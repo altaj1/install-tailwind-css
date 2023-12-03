@@ -1,0 +1,28 @@
+.service {
+    color: beige;
+    font-style: italic;
+    font-weight: 700 ;
+   
+}
+    
+
+.service2{
+    margin-left: 200px;
+    
+} 
+.service4{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.service3{
+   padding-top: 70px;
+}
+
+
+
+.cardBody{
+    background-color: rgb(72, 36, 36);
+    box-shadow: 10px 5px 5px rgb(23, 2, 2);
+    border: 2px solid rgb(12, 7, 1);
+    
+}

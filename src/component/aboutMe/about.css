@@ -1,0 +1,29 @@
+ .disply2{
+  display: flex;
+  
+ }
+ .width{
+  width: 230%;
+  margin: 50px;
+  margin-right: 10px;
+  margin-left: 110px;
+  margin-bottom: 300px;
+  
+  
+ }
+ .about2{
+ margin-right: 200px;
+ margin-left: 10px;
+ color: azure;
+ font-style: italic;
+ font-weight: 700 ;
+ margin-top: 45px;
+ 
+
+ }
+ .skills{
+  margin: 10px;
+ }
+ 
+
+
